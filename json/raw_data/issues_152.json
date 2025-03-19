@@ -1,0 +1,222 @@
+[
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13857",
+        "earliest_issue_date": "2018-07-20T15:39:23Z",
+        "fix_commit_hash": "0ea85800c4d9d7ddbb98a022cc1801d88aaa3576",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:23+01:00",
+        "committer_data": "2018-07-20T16:39:23+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13856",
+        "earliest_issue_date": "2018-07-20T15:39:22Z",
+        "fix_commit_hash": "2d340fcae10a0f74fda1b9e7be14d801f1935d30",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:22+01:00",
+        "committer_data": "2018-07-20T16:39:22+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13853",
+        "earliest_issue_date": "2018-07-20T15:39:20Z",
+        "fix_commit_hash": "e9d1abf2ce97b4d27d4cea40b23f9730d9093517",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:20+01:00",
+        "committer_data": "2018-07-20T16:39:20+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13851",
+        "earliest_issue_date": "2018-07-20T15:39:19Z",
+        "fix_commit_hash": "7a706b1581310e1a4fa34074d935eef868897ace",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:19+01:00",
+        "committer_data": "2018-07-20T16:39:19+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13850",
+        "earliest_issue_date": "2018-07-20T15:39:18Z",
+        "fix_commit_hash": "f28ae9e4c517ea3f88b4a1a51ea5976e581eeb11",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:19+01:00",
+        "committer_data": "2018-07-20T16:39:19+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13849",
+        "earliest_issue_date": "2018-07-20T15:39:17Z",
+        "fix_commit_hash": "1df725fddc7ed3824245c1daa9d7d6e4e6a4e53d",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:18+01:00",
+        "committer_data": "2018-07-20T16:39:18+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13847",
+        "earliest_issue_date": "2018-07-20T15:39:16Z",
+        "fix_commit_hash": "9d728387966573c378ed547b3c6ff9c87772dc6a",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:39:17+01:00",
+        "committer_data": "2018-07-20T16:39:17+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13845",
+        "earliest_issue_date": "2018-07-20T15:30:16Z",
+        "fix_commit_hash": "136be5916c80664cd8865db9f658d32660a72490",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:30:17+01:00",
+        "committer_data": "2018-07-20T16:30:17+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13841",
+        "earliest_issue_date": "2018-07-20T15:30:14Z",
+        "fix_commit_hash": "4003c3c6e507761397f709e803943482af2412c5",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:30:14+01:00",
+        "committer_data": "2018-07-20T16:30:14+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    },
+    {
+        "repo_name": "spring-boot",
+        "repo_url": "spring-projects/spring-boot",
+        "issue_html_url": "https://github.com/spring-projects/spring-boot/issues/13840",
+        "earliest_issue_date": "2018-07-20T15:30:13Z",
+        "fix_commit_hash": "3fd6f00155eed9cbf320eef068876d46571f5458",
+        "tipo": "Commit",
+        "commit_author": "Andy Wilkinson",
+        "commiter": "Andy Wilkinson",
+        "commit_date": "2018-07-20T16:30:13+01:00",
+        "committer_data": "2018-07-20T16:30:13+01:00",
+        "changed_files": 1,
+        "deletions": 1,
+        "insertions": 1,
+        "lines": 2,
+        "dmm_unit_size": null,
+        "dmm_unit_complexity": null,
+        "dmm_unit_interfacing": null,
+        "files_exts": [
+            "xml"
+        ]
+    }
+]
