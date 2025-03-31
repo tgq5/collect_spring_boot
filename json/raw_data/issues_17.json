@@ -1,0 +1,52 @@
+[
+    {
+        "fix_commit_hash": "0be00e2a6d1575e33e9486a3f2118c8a870298a7",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2016-04-05T19:37:42+10:00"
+    },
+    {
+        "fix_commit_hash": "38eeae216604cca7bca730847a8bf45fe85392e8",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2016-12-13T00:28:40-08:00"
+    },
+    {
+        "fix_commit_hash": "6b3b0dd3a6ac4818388e97e121de69a91e21657d",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2022-09-02T16:28:59-05:00"
+    },
+    {
+        "fix_commit_hash": "1c715ab28229cea3f180d62645ff9943dd6c4646",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2016-02-24T16:47:04+00:00"
+    },
+    {
+        "fix_commit_hash": "76edaa7e1e22a8da8e25a2afa890a3967a0fd229",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2016-03-04T17:31:00+01:00"
+    },
+    {
+        "fix_commit_hash": "6c22e0ab6e397d6158d1e29c2c91c2227ebc3d47",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2013-05-30T14:21:24+01:00"
+    },
+    {
+        "fix_commit_hash": "9fb0b97f96910a557f60d47f162349968f2d4e1c",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2019-02-13T17:45:16+00:00"
+    },
+    {
+        "fix_commit_hash": "514cf3dcc14b4d6367eeb28e38b703af86366cb9",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2013-05-24T06:02:40+01:00"
+    },
+    {
+        "fix_commit_hash": "0a04b74379fadcf00fd7e47a0ac9b96e2fad61fb",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2013-12-18T21:12:58+01:00"
+    },
+    {
+        "fix_commit_hash": "474ab7f69c68b9643f08ff9b6df895204ac3690b",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2020-09-16T15:23:32+02:00"
+    }
+]
