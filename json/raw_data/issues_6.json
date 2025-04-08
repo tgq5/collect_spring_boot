@@ -1,0 +1,12 @@
+[
+    {
+        "fix_commit_hash": "e695b4a6eac9ff391d68b2efddef1af19b154040",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2013-07-24T16:59:50-07:00"
+    },
+    {
+        "fix_commit_hash": "91a40dd66c8597c5d113b09dc5c2220a5a0dea12",
+        "repo_name": "spring-boot",
+        "best_scenario_issue_date": "2015-10-01T16:12:29+03:00"
+    }
+]
